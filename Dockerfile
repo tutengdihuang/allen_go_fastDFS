@@ -5,7 +5,7 @@ RUN set -xe; \
 	apk update; \
 	apk add --no-cache --virtual .build-deps \
 	git; \
-	cd /go/src/; \
+	cd $GOPATH/src/; \
 	git clone https://github.com/sjqzhang/go-fastdfs.git; \
 	cd go-fastdfs; \
 	go get; \

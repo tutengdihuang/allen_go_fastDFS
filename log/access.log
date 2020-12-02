@@ -1,0 +1,17 @@
+2020-12-01 14:56:18 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 14:56:18 | 285.798µs | 172.1.1.132 | GET | 200 |/
+2020-12-01 14:56:18 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 14:56:18 | 77.331µs | 172.1.1.132 | GET | 200 |/static/uppy.min.css
+2020-12-01 14:56:18 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 14:56:18 | 55.368µs | 172.1.1.132 | GET | 200 |/static/uppy.min.js
+2020-12-01 14:56:19 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 14:56:19 | 49.863µs | 172.1.1.132 | GET | 200 |/favicon.ico
+2020-12-01 14:56:56 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 14:56:56 | 5.148124ms | 172.1.1.132 | POST | 200 |/group1/upload
+2020-12-01 14:57:31 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 14:57:31 | 623.59µs | 172.1.1.132 | GET | 200 |/group1/default/20201201/14/56/5/AllenID?name=AllenID\u0026download=1
+2020-12-01 14:57:36 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 14:57:36 | 178.521µs | 172.1.1.132 | GET | 200 |/group1/default/20201201/14/56/5/AllenID?name=AllenID\u0026download=1
+2020-12-01 14:57:43 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 14:57:43 | 91.623µs | 172.1.1.132 | GET | 200 |/group1/default/20201201/14/56/5/AllenID?name=AllenID\u0026download=1
+2020-12-01 14:58:56 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 14:58:56 | 509.141µs | 172.1.1.132 | GET | 200 |/group1/default/20201201/14/56/5/AllenID?name=AllenID
+2020-12-01 15:00:05 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 15:00:05 | 318.686µs | 172.1.1.86 | GET | 200 |/
+2020-12-01 15:00:05 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 15:00:05 | 79.167µs | 172.1.1.86 | GET | 200 |/static/uppy.min.css
+2020-12-01 15:00:05 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 15:00:05 | 48.652µs | 172.1.1.86 | GET | 200 |/static/uppy.min.js
+2020-12-01 15:00:05 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 15:00:05 | 70.808µs | 172.1.1.86 | GET | 200 |/favicon.ico
+2020-12-01 15:00:21 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 15:00:21 | 171.906503ms | 172.1.1.86 | POST | 200 |/group1/upload
+2020-12-01 15:00:21 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 15:00:21 | 76.325µs | 172.1.1.86 | GET | 200 |/favicon.ico
+2020-12-01 15:00:43 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 15:00:43 | 189.715851ms | 172.1.1.86 | GET | 200 |/group1/default/20201201/15/00/5/%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85%E6%B6%88%E6%81%AF%E5%BC%95%E6%93%8E.png?name=%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85%E6%B6%88%E6%81%AF%E5%BC%95%E6%93%8E.png\u0026download=1
+2020-12-01 15:00:56 [INF] [fileserver.go:4336] [main.HttpHandler.ServeHTTP.func1] [Access] 2020/12/01 - 15:00:56 | 408.50006ms | 172.1.1.86 | GET | 200 |/group1/default/20201201/15/00/5/%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85%E6%B6%88%E6%81%AF%E5%BC%95%E6%93%8E.png?name=%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85%E6%B6%88%E6%81%AF%E5%BC%95%E6%93%8E.png\u0026download=1
