@@ -1,5 +1,5 @@
 FROM registry.cn-hangzhou.aliyuncs.com/prince/alpine-golang:1.11.5 as builder
-MAINTAINER prince <8923052@qq.com>
+MAINTAINER allen <1010459681@qq.com>
 ARG VERSION=1.1.7
 RUN set -xe; \
 	apk update; \
